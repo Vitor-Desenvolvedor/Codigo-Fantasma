@@ -4,7 +4,7 @@
 
 ## Título: Código Fantasma
 
-### Integrantes: Vitor Carvalho de Oliveira
+## Integrantes: Vitor Carvalho de Oliveira
 
 ### RESUMO:
 
