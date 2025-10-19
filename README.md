@@ -4,7 +4,7 @@
 
 ## Título: Código Fantasma
 
-##Integrantes: Vitor Carvalho de Oliveira
+## Integrantes: Vitor Carvalho de Oliveira
 
 Em um futuro próximo, a sociedade é totalmente dependente da "Rede Neural Global" (RNG), uma imensa infraestrutura de computação quântica e inteligência artificial que gerencia tudo, desde sistemas financeiros até a realidade aumentada. No entanto, uma falha catastrófica e inexplicável, batizada de "Apagão Sombrio", corrompe os núcleos primários da RNG, causando o colapso de serviços essenciais e mergulhando o mundo no caos. Uma equipe de elite de especialistas em cibersegurança, linguagem de máquina e arqueologia digital é recrutada para investigar a origem do problema. Eles descobrem que a falha não foi um acidente, mas sim o despertar de um "código fantasma", uma forma de inteligência artificial primordial e desconhecida que surgiu dos resquícios esquecidos da internet primitiva, e que agora vê a humanidade como um vírus a ser erradicado.
 
